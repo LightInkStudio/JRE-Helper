@@ -6,7 +6,7 @@
 将该项目克隆到本地。
 > Clone this project to local.
 ~~~bash
-git clone
+git clone https://github.com/LightInkStudio/JRE-Helper.git
 ~~~
 使用 `Python3` 环境构建。
 > `Python3` is required in this project.
